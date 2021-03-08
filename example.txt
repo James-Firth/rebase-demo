@@ -1,4 +1,6 @@
+A: Prepending this code here
 First commit
-here's more stuff from master
+A: here's more stuff from feature A
+A: Inserting here
 just so there's more lines changed.
 more master updates from elsewhere
