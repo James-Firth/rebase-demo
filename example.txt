@@ -1,6 +1,2 @@
-A: Prepending this code here
-First commit
-A: here's more stuff from feature A
-A: Inserting here
-just so there's more lines changed.
+A: Wow this is so much cleaner now
 more master updates from elsewhere
