@@ -1,2 +1,4 @@
-A: Wow this is so much cleaner now
+B: Wow this is so much cleaner now! B has also updated to work with this
 more master updates from elsewhere
+B: more code
+B: We removed a bunch of code here's a comment explaining why
